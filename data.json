@@ -1,1 +1,28 @@
-
+{
+  "cards": [
+    {
+      "card_number": "1234123412341234",
+      "cardholder_name": "Nhat Quang",
+      "expiration_date": "12/25",
+      "cvv": "123"
+    },
+    {
+      "card_number": "4321432143214321",
+      "cardholder_name": "Lee Sang-hyeok",
+      "expiration_date": "11/24",
+      "cvv": "456"
+    },
+    {
+      "card_number": "8888666644442222",
+      "cardholder_name": "PZ ZZANGG",
+      "expiration_date": "01/26",
+      "cvv": "789"
+    },
+    {
+      "card_number": "9999666633330000",
+      "cardholder_name": "Nguyen Nhat Quang",
+      "expiration_date": "10/23",
+      "cvv": "321"
+    }
+  ]
+}
